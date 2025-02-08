@@ -11,3 +11,5 @@
 1. Клонировать репозиторий:
 bash
 git clone https://github.com/kripo4/OnePage-Site.git
+
+//write with deepseek
